@@ -9,4 +9,4 @@ It should work on 5.3.7 as well, but I strongly advise you NOT to run
 such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
-3. Visit localhost/ClonedFolderName to views
+3. Visit localhost/ClonedFolderName to view the app
