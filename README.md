@@ -10,3 +10,5 @@ such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
 3. Visit localhost/ClonedFolderName to view the app
+
+4. 
